@@ -1,5 +1,6 @@
 # MaxSe
-Send Receive Serial Data over wifi  
+## Send Receive Serial Data over wifi  
+
 The whole Idea is the way we control different Midi devices, etc We should be able to get sensor Data or actuate different things from Ableton or Through our performance within Ableton Paradigm
 
 
